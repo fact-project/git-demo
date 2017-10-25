@@ -4,7 +4,7 @@ Hello Michael
 
 Hello Lukas
 
-Hello Dom
+Hello Dom!
 
 Hello Sebastian
 
