@@ -7,4 +7,7 @@ setup(
     author_email='maximilian.noethe@tu-dortmund.de',
     version='0.0.1',
     packages=['json2yaml'],
+    install_requires=[
+        'PyYaml',
+    ],
 )
